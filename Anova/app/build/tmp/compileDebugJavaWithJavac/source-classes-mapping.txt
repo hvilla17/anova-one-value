@@ -1,0 +1,12 @@
+com/tesi/anova/Etc.java
+ com.tesi.anova.Etc
+com/tesi/anova/BuildConfig.java
+ com.tesi.anova.BuildConfig
+com/tesi/anova/FDistribution.java
+ com.tesi.anova.FDistribution
+com/tesi/anova/OneWayOneActivity.java
+ com.tesi.anova.OneWayOneActivity
+com/tesi/anova/TwoWayOneActivity.java
+ com.tesi.anova.TwoWayOneActivity
+com/tesi/anova/MainActivity.java
+ com.tesi.anova.MainActivity

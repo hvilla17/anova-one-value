@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Anova</string>
+
+    <string name="one_way_anova_one">One-way analysis of variance (one value by cell)</string>
+    <string name="two_way_anova_one">Two-way analysis of variance (one value by cell)</string>
+    <string name="data">Data:</string>
+    <string name="significance">Level of significance:</string>
+    <string name="compute">Compute</string>
+    <string name="results">Results:</string>
+
+    <string-array name="significance_levels">
+        <item>0.005</item>
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.05</item>
+        <item>0.10</item>
+    </string-array>
+
+</resources>
